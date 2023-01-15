@@ -46,8 +46,8 @@ html{
 }
 .circle p{
     content: "";
-    height: 1rem;
-    width: 1rem;
+    height: 3rem;
+    width: 3rem;
     border-radius: 100%;
     background-color: rgb(34, 34, 88);
 }
